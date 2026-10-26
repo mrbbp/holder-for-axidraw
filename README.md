@@ -1,12 +1,12 @@
 # Holder for axidraw
 
-6+4 STL files for printing “holders” that fit into the base holder of EvilMadScience/BantamTools Axidraw penplotter.
+5+4 STL files for printing “holders” that fit into the base holder of EvilMadScience/BantamTools Axidraw penplotter.
 Tested on Axidraw™ V3 (A4) and NextDraw™ 2234 (A1)
 
 
 # Holder de gros feutres pour axidraw
 
-6+4 fichiers STL pour imprimer des "holders" qui se placent dans le holder de base des axidraws de EvilMadScience/BantamTools.
+5+4 fichiers STL pour imprimer des "holders" qui se placent dans le holder de base des axidraws de EvilMadScience/BantamTools.
 Testé sur Axidraw™ V3 (A4) et NextDraw™ 2234 (A1)
 
 ![PXL_20260830_113523256~2.jpg](medias/PXL_20260830_1135232562.jpg)
@@ -54,8 +54,6 @@ Au final, il y a 6 modèles qui sont compatibles avec les feutres et marqueurs e
     - Drip Stick small 6mm, 30ml, Molotow™
     - Drip Stick small 10mm, 30ml, Molotow™
     - Ripper de Dopecans
-- **25 mm** :
-    - Posca PC-8K
 - **29 mm** :
     - Posca PC-17K
 - **31 mm** :
