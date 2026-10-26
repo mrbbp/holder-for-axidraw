@@ -1,15 +1,22 @@
 # Holder for axidraw
 
-6 STL files for printing “holders” that fit into the base holder of EvilMadScience/BantamTools Axidraw penplotter.
+6+4 STL files for printing “holders” that fit into the base holder of EvilMadScience/BantamTools Axidraw penplotter.
 Tested on Axidraw™ V3 (A4) and NextDraw™ 2234 (A1)
 
 
 # Holder de gros feutres pour axidraw
 
-6 fichiers STL pour imprimer des "holders" qui se placent dans le holder de base des axidraws de EvilMadScience/BantamTools.
+6+4 fichiers STL pour imprimer des "holders" qui se placent dans le holder de base des axidraws de EvilMadScience/BantamTools.
 Testé sur Axidraw™ V3 (A4) et NextDraw™ 2234 (A1)
 
 ![PXL_20260830_113523256~2.jpg](medias/PXL_20260830_1135232562.jpg)
+
+# MàJ Oct. 26
+4 nouveaux fichiers pour les feutres Posca™ PC-1MR, PC-5M, PC-8K et Molotow™ All4One 1.5mm. Ces holders sont clipsables, plus besoin d'une pince pour les tenir fermés. ils sont plus faciles à utiliser mais sont des modèles spécifiques.
+
+![Modèles de profil](medias/modeles_M15_1MR_profil.jpg)
+![Modèles du dessus](medias/modeles_M15_1MR_dessus.jpg)
+
 
 ## La version longue
 Le défaut des axidraw est, entre autres, la pièce métallique qui permet de tenir le crayon. il est prévu pour des crayons dont le diamètre ne dépasse pas **16 mm**.  
